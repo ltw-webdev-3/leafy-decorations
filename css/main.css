@@ -31,13 +31,13 @@ html {
   background-image: url("../images/leaf-icon.svg");
   background-color: #fff;
   background-position: center;
-  color: #467366;
+  color: #145b1d;
   background-size: 64px;
   background-repeat: no-repeat;
 }
 
 .banner {
-  background-image: linear-gradient(to top, rgba(16, 52, 41, 0), rgba(16, 52, 41, .8)), url("../images/banner.jpg");
+  background-image: linear-gradient(to top, rgba(16, 52, 41, .8), rgba(16, 52, 41, 0) 50%), url("../images/banner.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: bottom center;
