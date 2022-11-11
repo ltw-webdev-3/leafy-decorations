@@ -2,7 +2,7 @@
 summary: 'Use background images to create design elements on a masthead & banner.'
 time: '1 hour'
 deliverables: '1 HTML file, 4 CSS files, images'
-download: 'https://assets.learn-the-web.algonquindesign.ca/web-dev-3/leafy-decorations-download.zip'
+download: 'https://assets.learntheweb.courses/web-dev-3/leafy-decorations-download.zip'
 ---
 
 # Leafy decorations
